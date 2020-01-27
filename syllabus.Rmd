@@ -1,7 +1,7 @@
 ---
-title: "P8321: Introduction to Data Science for Environmental Health"
-date: "1/14/2020"
-output: html_document
+title: 'P8321: Introduction to Data Science for Environmental Health'
+output: rmarkdown::github_document
+date: "1/27/2020"
 ---
 
 ```{r setup, include=FALSE}
